@@ -15,7 +15,7 @@ After EVERY commit (and push), publish the current site as the live preview and 
    below so it updates in place instead of creating a new one.
 3. End the reply with the live link.
 
-Live preview link: (set on first publish)
+Live preview link: https://claude.ai/artifact/88cVxJ7GUFPaZXgLaYgnQH (private until shared from its Share menu)
 
 ## Business facts (sources)
 
